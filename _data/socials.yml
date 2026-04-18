@@ -2,19 +2,20 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/example_pdf.pdf
 linkedin_username: syoungjo
 orcid_id: 0000-0001-7790-0160
 scholar_userid: I8StFfUAAAAJ
 github_username: suyoung-jo
-email: josuyoung1@gmail.com # your email address
+email: josuyoung1@gmail.com
+rss_icon: false
+
 # twitter_username: 
 # facebook_id: 
 # instagram_id: 
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-#custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#  title: Custom Social
-#  url: https://www.alberteinstein.com/
-rss_icon: false # RSS 아이콘이 보기 싫으시면 false로 바꾸세요.
+# wechat_qr: wechat-qr.png
+# whatsapp_number: 821012345678
+# custom_social:
+#   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png
+#   title: Custom Social
+#   url: https://www.alberteinstein.com/
