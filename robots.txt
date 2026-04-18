@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://suyoung-jo.github.io/sitemap.xml
+Sitemap: https://suyoung-jo.github.io /sitemap.xml
