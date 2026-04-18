@@ -9,8 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>228-3 ho, 220-dong</p>
-    <p>1, Gwanak-ro, GWwanak-gu</p>
-    <p>Seoul, Republic of Korea 08826</p>
+    <p>1, Gwanak-ro, Gwanak-gu</p>
+    <p>Seoul, South Korea 08826</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
