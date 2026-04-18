@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 
-I am a **Research Assistant Professor** at [Seoul National University](https://www.snu.ac.kr). My research lies at the intersection of **Infectious Disease Epidemiology** and **Mathematical Modeling**. 
+I am a **Research Assistant Professor** at [Seoul National University](https://www.snu.ac.kr). My research lies at the intersection of **Infectious Disease Epidemiology**. 
 
 My work focuses on deciphering the complex dynamics of disease transmission through data-driven approaches. I develop and utilize mathematical models to simulate various outbreak scenarios, providing essential evidence to support and shape public health policies. 
 
