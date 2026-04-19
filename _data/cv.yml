@@ -57,15 +57,6 @@ cv:
           - Description 2.
           
     Experience:
-      - company: Seoul National University Hospital
-        position: Registered Nurse
-        location: Seoul, ROK
-        start_date: 2014.9
-        end_date: 2017.2
-        summary: Provided clinical care for pediatric patients with hematologic and oncologic conditions.
-        highlights:
-          - Relativity
-
       - company: National Cancer Center
         position: Research Assistant
         location: Goyang, ROK
@@ -75,6 +66,15 @@ cv:
         highlights:
           - Description 1.
           - Description 2.
+          
+      - company: Seoul National University Hospital
+        position: Registered Nurse
+        location: Seoul, ROK
+        start_date: 2014.9
+        end_date: 2017.2
+        summary: Provided clinical care for pediatric patients with hematologic and oncologic conditions.
+        highlights:
+          - Relativity
 
     Awards:
       - title: Nobel Prize in Physics
