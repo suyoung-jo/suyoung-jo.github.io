@@ -13,10 +13,12 @@ schedule:
     date: Sep 3
     topic: Introduction to Statistics
     description: Definition of statistics, types of data and scales, sampling and statistical inference.
+  
   - week: 2
     date: Sep 10
     topic: Descriptive Statistics
     description: Mean, median, range, standard deviation, variance, skewness, and data visualization (histogram, boxplot).
+
   - week: 3
     date: Sep 17
     topic: Basics of Probability
