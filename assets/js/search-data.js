@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-birthday",
-          title: 'BIRTHDAY!!!!',
+            },},{id: "news-my-birthday",
+          title: 'my BIRTHDAY',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
