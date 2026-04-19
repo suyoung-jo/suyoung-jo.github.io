@@ -463,6 +463,11 @@ ninja.data = [{
           description: "This course covers the fundamental concepts of applied statistics used in health, environment, and safety fields to build data analysis and interpretation skills.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/applied-statistics-2025-2/";
+            },},{id: "teachings-data-science-fundamentals",
+          title: 'Data Science Fundamentals',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{
         id: 'social-cv',
         title: 'CV',
