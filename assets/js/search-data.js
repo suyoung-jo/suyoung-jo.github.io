@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
             },},{id: "news-my-birthday",
           title: 'my BIRTHDAY',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "news-presenting-a-poster-at-the-2026-society-for-epidemiologic-research-ser-annual-meeting-in-phoenix-az-june-23-7-30-pm-mst",
           title: 'Presenting a poster at the 2026 Society for Epidemiologic Research (SER) Annual Meeting...',
           description: "",
