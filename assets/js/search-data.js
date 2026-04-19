@@ -460,7 +460,7 @@ ninja.data = [{
           title: 'Applied Statistics (응용통계학)',
           description: "This course covers the fundamental concepts of applied statistics used in health, environment, and safety fields to build data analysis and interpretation skills.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/applied-statistics-2025-2/";
+              window.location.href = "/teachings/S-2025-1/applied-statistics-2025-2/";
             },},{
         id: 'social-cv',
         title: 'CV',
