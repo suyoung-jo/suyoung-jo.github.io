@@ -44,7 +44,7 @@ schedule:
   - week: 5
     date: Oct 1
     topic: Sampling and Sampling Distributions
-    description: Sampling distributions; sample mean and proportion; Central Limit Theoreom
+    description: Sampling distributions; sample mean and proportion; Central Limit Theorem
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -80,7 +80,7 @@ Students who complete this course will be able to:
 
 ## Grading
 
-- Assignments: 20%
+- Attendance: 20%
 - Assignments: 10%
 - Midterm Exam: 30%
 - Final Exam: 40%
@@ -89,3 +89,20 @@ Students who complete this course will be able to:
 ## Prerequisites
 
 - None
+
+<style>
+  /* 날짜(Date) 열: 절대 줄바꿈 되지 않고 한 줄에 나오게 설정 */
+  table th:nth-child(2), 
+  table td:nth-child(2) {
+    white-space: nowrap !important;
+    min-width: 90px; 
+  }
+
+  /* 설명(Description) 열: 내용이 길면 자연스럽게 줄바꿈 되도록 설정 */
+  table td:nth-child(4) {
+    white-space: normal !important;
+    word-break: keep-all; 
+    line-height: 1.4;
+    min-width: 250px; /* 설명 칸이 너무 좁아지지 않게 최소 너비 확보 */
+  }
+</style>
