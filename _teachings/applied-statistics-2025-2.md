@@ -15,7 +15,7 @@ schedule:
     description: Definition of statistics; data types and measurement scales; sampling and inference
     materials:
       - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+        url: /_teachings/Week1_응용통계학_250903.pdf
 
   - week: 2
     date: Sep 10
@@ -23,47 +23,37 @@ schedule:
     description: Mean, median, range; variance, standard deviation, skewness; basic data visualization
     materials:
       - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+        url: /_teachings/pdf/Week2_기술통계_250910.pdf
         
   - week: 3
     date: Sep 17
     topic: Fundamentals of Probability
     description: Basic probability concepts; addition and multiplication rules; Bayes' theorem
     materials:
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
 
   - week: 4
     date: Sep 24
     topic: Probability Distributions (1)
     description: Binomial, Poisson, and normal distributions
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
 
   - week: 5
     date: Oct 1
     topic: Probability Distributions (2)
     description: Binomial, Poisson, and normal distributions
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
 
   - week: 6
     date: Oct 15
     topic: Sampling and Sampling Distributions
     description: Sampling distributions; sample mean and proportion; Central Limit Theorem
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
 
   - week: 7
     date: Oct 22
     topic: (Online) Statistical Estimation (1)
     description: Estimation of mean and proportion; t-distribution; confidence intervals
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
 
   - week: 8
     date: Oct 29
