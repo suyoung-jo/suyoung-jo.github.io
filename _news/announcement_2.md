@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sample
-date: 2026-04-20 16:11:00+0900
+title: BIRTHDAY!!!!
+date: 2026-04-24 00:00:00+0900
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+It's my BIRTHDAY!!!!!!
 
 ---
 
