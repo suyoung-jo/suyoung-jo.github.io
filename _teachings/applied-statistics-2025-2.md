@@ -58,6 +58,27 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 ---
 
+
+## Course Overview
+
+This course introduces fundamental concepts of applied statistics used in the fields of public health, environment, and safety.
+It aims to develop students’ ability to analyze and interpret real-world data.
+The course covers basic probability, descriptive statistics, and statistical inference, with an emphasis on applying statistical methods to practical research questions.
+
+## Learning Outcomes
+
+Students who complete this course will be able to:
+
+- Explain key characteristics of data and the role of statistical measures in data interpretation
+- Understand the concept of statistical inference and apply it to practical data analysis
+- Propose appropriate statistical approaches for problems in public health, safety, and industrial settings
+
+
+## Textbooks
+
+- <a href="https://product.kyobobook.co.kr/detail/S000001795273">보건통계학개론</a>  (경문사) by 이우주, 원성호, 김호
+
+
 ## Grading
 
 - Attendance: 20%
@@ -69,3 +90,4 @@ schedule:
 ## Prerequisites
 
 - None
+
