@@ -9,21 +9,6 @@ location: Eulji University
 time: Wednesdays, 1:00-4:00 PM
 course_id: applied-statistics-2025-2
 schedule:
-- week: 1
-    date: Sep 3
-    topic: Introduction to Statistics
-    description: Definition of statistics, types of data and scales, sampling and statistical inference.
-  
-  - week: 2
-    date: Sep 10
-    topic: Descriptive Statistics
-    description: Mean, median, range, standard deviation, variance, skewness, and data visualization (histogram, boxplot).
-
-  - week: 3
-    date: Sep 17
-    topic: Basics of Probability
-    description: Definition and properties of probability, calculations (union, intersection, conditional probability, independence).
-  
   - week: 1
     date: Feb 5
     topic: Introduction to Data Science
