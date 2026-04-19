@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Poster Presentation at SER 2026
 date: 2026-06-23
 inline: true
 related_posts: false
