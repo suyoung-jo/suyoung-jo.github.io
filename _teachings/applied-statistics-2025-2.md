@@ -52,10 +52,65 @@ schedule:
   - week: 6
     date: Oct 15
     topic: Statistical Estimation (1)
-    description: Estimation of mean and proportion; t-distribution; confidence intervals.
+    description: Estimation of mean and proportion; t-distribution; confidence intervals
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
+
+
+  - week: 7
+    date: Oct 29
+    topic: Midterm Examination
+    description:
+    materials:
+    
+  - week: 8
+    date: Nov 5
+    topic: Statistical Estimation (2)
+    description: Estimation of variance; chi-square and F distributions
+    materials:
+  
+  - week: 9
+    date: Nov 12
+    topic: Hypothesis Testing (1)
+    description: Hypotheses, test statistics, significance level; tests for means
+    materials:
+  
+  - week: 10
+    date: Nov 19
+    topic: Hypothesis Testing (2)
+    description: Tests for variance; Type I and II errors; statistical power
+    materials:
+  
+  - week: 11
+    date: Nov 26
+    topic: ANOVA and Correlation
+    description: One-way and two-way ANOVA; Pearson and Spearman correlation
+    materials:
+  
+  - week: 12
+    date: Dec 3
+    topic: Regression Analysis
+    description: Simple linear regression; coefficients, R², residuals
+    materials:
+  
+  - week: 13
+    date: Dec 10
+    topic: Nonparametric Statistics
+    description: Introduction to nonparametric tests (e.g., Mann–Whitney, Kruskal–Wallis)
+    materials:
+  
+  - week: 14
+    date: (Make-up)
+    topic: Statistical Software Applications
+    description: Introduction to R; basic calculations; simple visualizations
+    materials:
+  
+  - week: 15
+    date: Dec 17
+    topic: Final Examination
+    description: 
+    materials:
 ---
 
 
