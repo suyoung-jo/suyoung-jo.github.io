@@ -15,7 +15,7 @@ schedule:
     description: Definition of statistics; data types and measurement scales; sampling and inference
     materials:
       - name: Slides
-        url: /assets/pdf/teaching/slides-2025/Week1_응용통계학_250903.pdf
+        url: /assets/pdf/Week1_응용통계학_250903.pdf
 
   - week: 2
     date: Sep 10
