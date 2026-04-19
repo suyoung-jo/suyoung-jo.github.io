@@ -122,7 +122,7 @@ Students who complete this course will be able to:
 
 ## Textbooks
 
-- <a href="https://product.kyobobook.co.kr/detail/S000001795273">보건통계학개론</a>  (경문사) by 이우주, 원성호, 김호
+- <a href="https://product.kyobobook.co.kr/detail/S000001795273">보건통계학개론(경문사)</a> by 이우주, 원성호, 김호
 
 
 ## Grading
