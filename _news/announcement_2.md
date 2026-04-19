@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my BIRTHDAY
-date: 2026-04-24 00:00:00
+date: 2026-04-24 00:00:00 +0900
 inline: false
 related_posts: false
 ---
