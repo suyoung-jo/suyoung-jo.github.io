@@ -15,11 +15,11 @@ cv:
       username: syoungjo
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 1 Gwanak-ro 
+    city: Gwanak-gu
+    region: Seoul
+    postalCode: 08826
+    countryCode: ROK
 
   sections:
     Education:
