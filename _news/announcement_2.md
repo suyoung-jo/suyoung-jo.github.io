@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BIRTHDAY!!!!
+title: my BIRTHDAY
 date: 2026-04-24
 inline: false
 related_posts: false
