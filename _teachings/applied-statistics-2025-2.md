@@ -15,7 +15,7 @@ schedule:
     description: Definition of statistics; data types and measurement scales; sampling and inference
     materials:
       - name: Slides
-        url: /_teachings/S-2025-1/Week1_응용통계학_250903.pdf
+        url: /_teachings/S-2025-2/Week1_응용통계학_250903.pdf
 
   - week: 2
     date: Sep 10
@@ -23,7 +23,7 @@ schedule:
     description: Mean, median, range; variance, standard deviation, skewness; basic data visualization
     materials:
       - name: Slides
-        url: /_teachings/S-2025-1/Week2_기술통계_250910.pdf
+        url: /_teachings/S-2025-2/Week2_기술통계_250910.pdf
         
   - week: 3
     date: Sep 17
