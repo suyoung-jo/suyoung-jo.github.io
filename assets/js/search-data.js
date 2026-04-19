@@ -410,10 +410,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-presenting-a-poster-at-the-2026-society-for-epidemiologic-research-ser-annual-meeting-in-phoenix-az-june-16-7-00-pm-mst",
+            },},{id: "news-presenting-a-poster-at-the-2026-society-for-epidemiologic-research-ser-annual-meeting-in-phoenix-az-june-16-7-00-pm-mst",
           title: 'Presenting a poster at the 2026 Society for Epidemiologic Research (SER) Annual Meeting...',
           description: "",
           section: "News",},{id: "projects-project-1",
