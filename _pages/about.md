@@ -1,8 +1,9 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: Postdoc in Infectious Epidemioloogy @<a href="https://snu.ac.kr" target="_blank">SNU</a> 
+
 profile:
   align: right
   image: suyoung.jpg
