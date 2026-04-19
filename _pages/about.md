@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: RN, MPH, PhD @<a href="https://en.snu.ac.kr" target="_blank">SNU</a> 
+subtitle: RN, MPH, PhD @<a href="https://snu.ac.kr" target="_blank">SNU</a> 
 profile:
   align: right
   image: suyoung.jpg
