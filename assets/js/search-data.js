@@ -461,9 +461,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-applied-statistics-응용통계학",
+          title: 'Applied Statistics (응용통계학)',
+          description: "This course covers the fundamental concepts of applied statistics used in health, environment, and safety fields to build data analysis and interpretation skills.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
