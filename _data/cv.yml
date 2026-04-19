@@ -4,7 +4,7 @@ cv:
   email: josuyoung1@gmail.com
   location: Seoul, Republic of Korea
   image: ""
-  summary: Infectious Disease epidemiology
+  summary: An infectious disease epidemiologist with expertise in mathematical modeling and quantitative analysis of public health interventions.
 
   social_networks:
     - network: X
@@ -47,7 +47,7 @@ cv:
           - Description 2.
 
       - institution: Seoul National University
-        location: Seoul, Republic of Korea
+        location: Seoul, ROK
         area: Nursing
         studyType: Bachelor of Science in Nursing (BSN)
         start_date: 2014
@@ -57,43 +57,25 @@ cv:
           - Description 2.
           
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Seoul National University Hospital
+        position: Registered Nurse
+        location: Seoul, ROK
+        start_date: 2014
+        end_date: 2017
+        summary: Provided clinical care for pediatric patients with hematologic and oncologic conditions.
         highlights:
           - Relativity
-          - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: National Cancer Center
+        position: Research Assistant
+        location: Goyang, Gyeonggi, ROK
+        start_date: 2018
+        end_date: 2020
+        summary: Supported public health research through linkage and management of large-scale national healthcare data.
         highlights:
           - Description 1.
           - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
+          
     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
