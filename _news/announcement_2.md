@@ -3,7 +3,7 @@ layout: post
 title: BIRTHDAY!!!!
 date: 2026-04-24
 inline: false
-related_posts: false
+related_posts: true
 ---
 
 It's my BIRTHDAY!!!!!!
