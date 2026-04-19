@@ -119,10 +119,11 @@ cv:
         icon: fa-solid fa-location-dot
 
     Projects:
-      - name: Disease X
+      - name: Simulation-Based Policy Evaluation Framework for Emerging Infectious Diseases (Disease X)
         summary: Infectious disease policy evaluation
         highlights:
           - Agent-based modeling
+          - funded by Ministry of Education
         start_date: 2025-09-01
         end_date: 2027-08-31
 
