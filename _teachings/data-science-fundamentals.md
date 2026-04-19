@@ -1,97 +1,92 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+title: Applied Statistics (응용통계학)
+description: This course covers the fundamental concepts of applied statistics used in health, environment, and safety fields to build data analysis and interpretation skills.
+instructor: Prof. Suyoung Jo
+year: 2025
+term: Fall
+location: Eulji University
+time: Wednesdays, 1:00-4:00 PM
+course_id: applied-statistics-2025-2
 schedule:
   - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
+    date: Sep 3
+    topic: Introduction to Statistics
+    description: Definition of statistics; data types and measurement scales; sampling and inference
     materials:
       - name: Syllabus
         url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
 
   - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
+    date: Sep 10
+    topic: Descriptive Statistics
+    description: Mean, median, range; variance, standard deviation, skewness; basic data visualization
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
+        
   - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
+    date: Sep 17
+    topic: Fundamentals of Probability
+    description: Basic probability concepts; addition and multiplication rules; conditional probability and independence
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
 
   - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
+    date: Sep 24
+    topic: Probability Distributions
+    description: Binomial, Poisson, and normal distributions; standardization
     materials:
       - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
         url: /assets/pdf/example_pdf.pdf
 
   - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
+    date: Oct 1
+    topic: Sampling and Sampling Distributions
+    description: Sampling distributions; sample mean and proportion; Central Limit Theorem
     materials:
       - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
         url: /assets/pdf/example_pdf.pdf
 
   - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    date: Oct 15
+    topic: Statistical Estimation (1)
+    description: Estimation of mean and proportion; t-distribution; confidence intervals.
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
 ---
+
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+This course introduces fundamental concepts of applied statistics used in the fields of public health, environment, and safety. 
+It aims to develop students’ ability to analyze and interpret real-world data. 
+The course covers basic probability, descriptive statistics, and statistical inference, with an emphasis on applying statistical methods to practical research questions.
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+## Learning Outcomes
 
-## Prerequisites
+Students who complete this course will be able to:
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+- Explain key characteristics of data and the role of statistical measures in data interpretation
+- Understand the concept of statistical inference and apply it to practical data analysis
+- Propose appropriate statistical approaches for problems in public health, safety, and industrial settings
+
 
 ## Textbooks
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+- <a href="https://product.kyobobook.co.kr/detail/S000001795273">보건통계학개론</a>  (경문사) by 이우주, 원성호, 김호
+
 
 ## Grading
 
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+- Attendance: 20%
+- Assignments: 10%
+- Midterm Exam: 30%
+- Final Exam: 40%
+
+
+## Prerequisites
+
+- None
