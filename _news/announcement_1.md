@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Poster Presentation at SER 2026
+date: 2026-06-23 19:30:00-0700
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presenting a poster at the 2026 Society for Epidemiologic Research (SER) Annual Meeting in Phoenix, AZ (June 16, 7:00 PM MST).
