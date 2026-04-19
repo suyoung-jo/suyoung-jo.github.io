@@ -68,7 +68,7 @@ cv:
 
       - company: National Cancer Center
         position: Research Assistant
-        location: Goyang, Gyeonggi, ROK
+        location: Goyang, ROK
         start_date: 2018.7
         end_date: 2020.2
         summary: Supported public health research through linkage and management of large-scale national healthcare data.
@@ -102,11 +102,9 @@ cv:
 
     Languages:
       - name: Korean
-        icon: fa-solid fa-flag-korea
         summary: "Native speaker"
 
       - name: English
-        icon: fa-solid fa-flag-usa
         summary: "Fluent"
 
     Interests:
