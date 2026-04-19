@@ -24,7 +24,7 @@ cv:
   sections:
     Education:
       - institution: Seoul National University
-        location: Seoul, Republic of Korea
+        location: Seoul, ROK
         url: https://en.snu.ac.kr/
         area: Epidemiology
         studyType: PhD
@@ -37,7 +37,7 @@ cv:
           - Description 2.
 
       - institution: Seoul National University
-        location: Seoul, Republic of Korea
+        location: Seoul, ROK
         area: Epidemiology
         studyType: Master of Public Health (MPH)
         start_date: 2016.9
@@ -75,16 +75,6 @@ cv:
         highlights:
           - Description 1.
           - Description 2.
-          
-    Volunteer:
-      - company: hihi
-        position: hh
-        location: Seoul, ROK
-        start_date: 2014-04
-        end_date: 2015-07
-        summary: 
-        highlights:
-          - "highlight"
 
     Awards:
       - title: Nobel Prize in Physics
@@ -96,9 +86,9 @@ cv:
         summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: hh
         authors:
-          - Albert Einstein
+          - Suyoung Jo
         publisher: Annalen der Physik
         releaseDate: 1905-06-30
         url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
@@ -112,9 +102,11 @@ cv:
 
     Languages:
       - name: Korean
+        icon: fa-solid fa-flag-korea
         summary: "Native speaker"
 
       - name: English
+        icon: fa-solid fa-flag-usa
         summary: "Fluent"
 
     Interests:
