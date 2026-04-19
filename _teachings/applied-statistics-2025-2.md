@@ -14,7 +14,7 @@ schedule:
     topic: Introduction to Statistics
     description: Definition of statistics; data types and measurement scales; sampling and inference
     materials:
-      - name: Syllabus
+      - name: Slides
         url: /assets/pdf/example_pdf.pdf
 
   - week: 2
@@ -22,88 +22,89 @@ schedule:
     topic: Descriptive Statistics
     description: Mean, median, range; variance, standard deviation, skewness; basic data visualization
     materials:
-      - name: Lecture Notes
+      - name: Slides
         url: /assets/pdf/example_pdf.pdf
         
   - week: 3
     date: Sep 17
     topic: Fundamentals of Probability
-    description: Basic probability concepts; addition and multiplication rules; conditional probability and independence
+    description: Basic probability concepts; addition and multiplication rules; Bayes' theorem
     materials:
-      - name: Lecture Notes
+      - name: Slides
         url: /assets/pdf/example_pdf.pdf
 
   - week: 4
     date: Sep 24
-    topic: Probability Distributions
-    description: Binomial, Poisson, and normal distributions; standardization
+    topic: Probability Distributions (1)
+    description: Binomial, Poisson, and normal distributions
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
 
   - week: 5
     date: Oct 1
-    topic: Sampling and Sampling Distributions
-    description: Sampling distributions; sample mean and proportion; Central Limit Theorem
+    topic: Probability Distributions (2)
+    description: Binomial, Poisson, and normal distributions
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
 
   - week: 6
     date: Oct 15
-    topic: Statistical Estimation (1)
+    topic: Sampling and Sampling Distributions
+    description: Sampling distributions; sample mean and proportion; Central Limit Theorem
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+
+  - week: 7
+    date: Oct 22
+    topic: (Online) Statistical Estimation (1)
     description: Estimation of mean and proportion; t-distribution; confidence intervals
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
 
-
-  - week: 7
+  - week: 8
     date: Oct 29
     topic: Midterm Examination
     description:
     materials:
     
-  - week: 8
+  - week: 9
     date: Nov 5
     topic: Statistical Estimation (2)
-    description: Estimation of variance; chi-square and F distributions
+    description: Estimation of population variance and variance ratios; confidence intervals using chi-square and F distributions
     materials:
   
-  - week: 9
+  - week: 10
     date: Nov 12
     topic: Hypothesis Testing (1)
     description: Hypotheses, test statistics, significance level; tests for means
     materials:
   
-  - week: 10
+  - week: 11
     date: Nov 19
     topic: Hypothesis Testing (2)
     description: Tests for variance; Type I and II errors; statistical power
     materials:
   
-  - week: 11
-    date: Nov 26
-    topic: ANOVA and Correlation
-    description: One-way and two-way ANOVA; Pearson and Spearman correlation
-    materials:
-  
   - week: 12
-    date: Dec 3
-    topic: Regression Analysis
-    description: Simple linear regression; coefficients, R², residuals
+    date: Nov 26
+    topic: ANOVA, Regression Analysis (1)
+    description: One-way and two-way ANOVA; introduction to simple linear regression
     materials:
   
   - week: 13
-    date: Dec 10
-    topic: Nonparametric Statistics
-    description: Introduction to nonparametric tests (e.g., Mann–Whitney, Kruskal–Wallis)
+    date: Dec 3
+    topic: Regression Analysis (2)
+    description: Multiple regression model, Assumptions of regression model
     materials:
   
   - week: 14
-    date: (Make-up)
-    topic: Statistical Software Applications
-    description: Introduction to R; basic calculations; simple visualizations
+    date: Dec 10
+    topic: Correlation analysis, Chi-square distribution
+    description: Correlation coefficient; Chi-square distribution, Test of independence, Fisher's exact test
     materials:
   
   - week: 15
