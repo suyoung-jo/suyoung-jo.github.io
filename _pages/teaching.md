@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: A list of courses I have taught as an instructor or supported as a teaching assistant.
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+This page provides a detailed overview of my teaching experience!
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
