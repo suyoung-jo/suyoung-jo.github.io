@@ -1,10 +1,10 @@
 cv:
   name: Suyoung Jo
-  label: Research Assistant Professor
+  label: Postdoctoral Fellow
   email: josuyoung1@gmail.com
   location: Seoul, Republic of Korea
   image: ""
-  summary: An infectious disease epidemiologist with expertise in mathematical modeling and quantitative analysis of public health interventions.
+  summary: An infectious disease epidemiologist specializing in mathematical modeling and population-based data analysis to inform public health policy
 
   social_networks:
     - network: X
@@ -19,47 +19,51 @@ cv:
     city: Gwanak-gu
     region: Seoul
     postalCode: 08826
-    countryCode: ROK
+    countryCode: Korea
 
   sections:
     Education:
       - institution: Seoul National University
-        location: Seoul, ROK
+        location: Seoul, Korea
         url: https://en.snu.ac.kr/
         area: Epidemiology
         studyType: PhD
         start_date: 2019.3
         end_date: 2023.2
-        score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Prof. Sung-il Cho"
+          - "Thesis: Using Epidemiological Indicators for Comprehensive Monitoring and Evaluation of COVID-19 Epidemic in South Korea"
 
       - institution: Seoul National University
-        location: Seoul, ROK
+        location: Seoul, Korea
         area: Epidemiology
         studyType: Master of Public Health (MPH)
         start_date: 2016.9
         end_date: 2018.8
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Prof. Sung-il Cho"
 
       - institution: Seoul National University
-        location: Seoul, ROK
+        location: Seoul, Korea
         area: Nursing
         studyType: Bachelor of Science in Nursing (BSN)
         start_date: 2010.3
         end_date: 2014.2
         highlights:
-          - Description 1.
-          - Description 2.
           
     Experience:
+      - company: Seoul National University
+        position: Postdoctoral Researcher
+        location: Seoul, Korea
+        start_date: 2024-03
+        end_date: present
+        highlights:
+          - "PI: Prof. Sung-il Cho"
+          - "Affiliated with Chungbuk National University (Jan–Aug 2025) for administrative purposes"
+                
       - company: National Cancer Center
         position: Research Assistant
-        location: Goyang, ROK
+        location: Goyang, Korea
         start_date: 2018.7
         end_date: 2020.2
         summary: Supported public health research through linkage and management of large-scale national healthcare data.
@@ -69,7 +73,7 @@ cv:
           
       - company: Seoul National University Hospital
         position: Registered Nurse
-        location: Seoul, ROK
+        location: Seoul, Korea
         start_date: 2014.9
         end_date: 2017.2
         summary: Provided clinical care for pediatric patients with hematologic and oncologic conditions.
@@ -77,61 +81,70 @@ cv:
           - Relativity
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Student and Postdoc International Travel Scholarship
+        awarder: Society for Epidemiologic Research
+        url: https://epiresearch.org
+        date: 2025
+      
+      - title: Excellent Presentation Award
+        awarder: Korea Public Health Association
+        date: 2020
+      
+      - title: Best Presentation Award
+        awarder: Korean Society for Preventive Medicine
+        date: 2019
+      
+      - title: Encouragement Presentation Award
+        awarder: Korean Society of Epidemiology
+        date: 2017
+      
+      - title: Best Poster Award
+        awarder: Korean Society for Preventive Medicine
+        date: 2017
+
 
     Publications:
-      - title: hh
-        authors:
-          - Suyoung Jo
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: "See full publication list on the [Publications](/publications/) page."
+        summary: 
 
     Skills:
-      - name: Epidemiology, Data analysis
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "R, SAS, Python, Survival Analysis"
+      - name: Methodology
+        keywords: "Survival Analysis, Mathematical Modeling, Social Network Analysis"
+
+      - name: Programming
+        keywords: "R (Fluent), SAS (Fluent), Python (Basic), SQL (Basic)"
 
     Languages:
       - name: Korean
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Professional working proficiency"
 
     Interests:
-      - name: Epidmiology
-        icon: fa-solid fa-tag
-        keywords: "Infectious Disease Epidemiology, Network Epidemiology, Behavioral risk factor"
+      - name: Infectious Disease Epidemiology
+        keywords: "Mathematical Modeling, Agent-based Modeling, Network Epidemiology, Population-based Cohort Study"
+
+      - name: Hobbies
+        keywords: "Football, Weightlifting, Cello"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Registered Nurse License
+        issuer: Korean Ministry of Health and Welfare
+        date: 2014
 
     Projects:
-      - name: Simulation-Based Policy Evaluation Framework for Emerging Infectious Diseases (Disease X)
-        summary: Infectious disease policy evaluation
+      - name: Simulation-Based Policy Evaluation Framework for Emerging Infectious Diseases
+        summary: "Developing an agent-based modeling framework to evaluate infectious disease policies from epidemiological and health economic perspectives."
         highlights:
-          - Agent-based modeling
-          - funded by Ministry of Education
-        start_date: 2025-09-01
-        end_date: 2027-08-31
-
+          - "Agent-based modeling for infectious disease policy evaluation"
+          - "Funded by National Research Foundation of Korea (NRF)"
+        start_date: 2025-09
+        end_date: 2027-08
+        
     References:
       - name: Professor Sung-il Cho
-        icon: fa-solid fa-laptop
-        reference: Seoul.
+        reference: Graduate School of Public Health, Seoul National University
 
       - name: Professor Kyung-Duk Min
-        icon: fa-solid fa-thumbtack
-        reference: Chungbuk.
+        reference: College of Veterinary Medicine, Chungbuk National University.
