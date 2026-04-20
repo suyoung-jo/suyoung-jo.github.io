@@ -29,11 +29,10 @@ latest_posts:
 
 I am a **Postdoctoral Fellow** at [Seoul National University](https://en.snu.ac.kr).
 
-My research focuses on two interconnected areas. First, I develop **mathematical models** — including `compartmental models` and `agent-based approaches` — to simulate infectious disease dynamics 
-and evaluate public health interventions from **epidemiological** and **health economic** perspectives.
+My research focuses on two interconnected areas. 
+
+First, I develop **mathematical models** — including `compartmental models` and `agent-based approaches` — to simulate infectious disease dynamics and evaluate public health interventions from **epidemiological** and **health economic** perspectives.
 
 Second, I use large-scale **population-based data** (Korean National Health Insurance Service) to investigate **mortality risk** and clinical outcomes in vulnerable populations, applying `epidemiological methods` including `survival analysis`.
 
-I am particularly interested in integrating **modeling** and **population-based evidence** to inform *public health policy*.
-
-I am always open to collaboration and discussion regarding infectious disease modeling and public health research. Please feel free to reach out to me via [email](mailto:josuyoung1@gmail.com).
+I am particularly interested in integrating **modeling** and **population-based evidence** to inform *public health policy*, and I am always open to collaboration and discussion. Please feel free to reach out via [email](mailto:josuyoung1@gmail.com).
