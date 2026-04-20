@@ -77,6 +77,19 @@ cv:
         end_date: 2017.2
         summary: Provided clinical care for pediatric patients with hematologic and oncologic conditions.
 
+    Publications:
+      - summary: "See full publication list on the [Publications](https://suyoung-jo.github.io/publications/) page."
+        date: ""
+ 
+    Projects:
+      - name: Simulation-Based Policy Evaluation Framework for Emerging Infectious Diseases
+        start_date: 2025.9
+        end_date: 2027.8
+        summary: "Developing an agent-based modeling framework to evaluate infectious disease policies from epidemiological and health economic perspectives."
+        highlights:
+          - "Agent-based modeling for infectious disease policy evaluation"
+          - "Funded by National Research Foundation of Korea (NRF)"
+        
     Awards:
       - title: Student and Postdoc International Travel Scholarship
         awarder: Society for Epidemiologic Research
@@ -99,18 +112,6 @@ cv:
         awarder: Korean Society for Preventive Medicine
         date: 2017
 
-    Projects:
-      - name: Simulation-Based Policy Evaluation Framework for Emerging Infectious Diseases
-        start_date: 2025.9
-        end_date: 2027.8
-        summary: "Developing an agent-based modeling framework to evaluate infectious disease policies from epidemiological and health economic perspectives."
-        highlights:
-          - "Agent-based modeling for infectious disease policy evaluation"
-          - "Funded by National Research Foundation of Korea (NRF)"
-          
-    Publications:
-      - summary: "See full publication list on the [Publications](https://suyoung-jo.github.io/publications/) page."
-
     Skills:
       - name: Methodology
         keywords: "Survival Analysis, Mathematical Modeling, Social Network Analysis"
@@ -131,8 +132,6 @@ cv:
 
       - name: Hobbies
         keywords: "Football, Weightlifting, Cello"
-
-
 
     Certificates:
       - name: Registered Nurse License
