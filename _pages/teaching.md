@@ -9,7 +9,7 @@ nav_order: 6
 
 A list of courses I have taught as an instructor or supported as a teaching assistant.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+{% include calendar.liquid calendar_id='josuyoung1@gmail.com' timezone='Asia/Seoul' %}
 
 {% include courses.liquid %}
 
