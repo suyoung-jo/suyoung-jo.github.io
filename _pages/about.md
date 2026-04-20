@@ -2,19 +2,19 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc in Infectious Epidemioloogy @<a href="https://en.snu.ac.kr" target="_blank">SNU</a> 
+subtitle: Postdoc Fellow in Infectious Epidemiology @<a href="https://en.snu.ac.kr" target="_blank">SNU</a> 
 
 profile:
   align: right
   image: suyoung.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>228-3-ho, 220-dong</p>
-    <p>1, Gwanak-ro, Gwanak-gu</p>
-    <p>Seoul, South Korea</p>
+    <p>Bldg 220, Room 228-3</p>
+    <p>1 Gwanak-ro, Gwanak-gu</p>
+    <p>Seoul, Korea 08826</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,14 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I am a **Postdoctoral Fellow** at [Seoul National University](https://en.snu.ac.kr).
 
-I am a **Research Assistant Professor** at [Seoul National University](https://www.snu.ac.kr). My research lies at the intersection of **Infectious Disease Epidemiology** and **Mathematical Modeling**.
+My research focuses on two interconnected areas. First, I develop **mathematical models** — including `compartmental models` and `agent-based approaches` — to simulate infectious disease dynamics 
+and evaluate public health interventions from **epidemiological** and **health economic** perspectives.
 
-My work focuses on deciphering the complex dynamics of disease transmission through data-driven approaches. I develop and utilize mathematical models to simulate various outbreak scenarios, providing essential evidence to support and shape public health policies. 
+Second, I use large-scale **population-based data** (Korean National Health Insurance Service) to investigate **mortality risk** and clinical outcomes in vulnerable populations, applying `epidemiological methods` including `survival analysis`.
 
-Currently, my research interests include:
-* `Epidemiological Analysis`: Investigating the patterns and causes of infectious disease spread.
-* `Mathematical Modeling`: Developing predictive simulations for disease dynamics.
-* `Evidence-based Policy`: Translating modeling results into actionable public health interventions.
+I am particularly interested in integrating **modeling** and **population-based evidence** to inform *public health policy*.
 
 I am always open to collaboration and discussion regarding infectious disease modeling and public health research. Please feel free to reach out to me via [email](mailto:josuyoung1@gmail.com).
