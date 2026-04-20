@@ -459,11 +459,11 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/applied-statistics-2025-2/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("mailto:%6A%6F%73%75%79%6F%75%6E%67%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -492,13 +492,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/suyoung-jo", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6A%6F%73%75%79%6F%75%6E%67%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-rss',
