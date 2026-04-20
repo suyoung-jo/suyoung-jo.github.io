@@ -87,8 +87,8 @@ cv:
         end_date: 2027.8
         summary: "Developing an agent-based modeling framework to evaluate infectious disease policies from epidemiological and health economic perspectives."
         highlights:
-          - "Agent-based modeling for infectious disease policy evaluation"
-          - "Funded by National Research Foundation of Korea (NRF)"
+          - "Project Investigator of Basic Science Research Program through the National Research Foundation of Korea (NRF)"
+          - "Funded by Ministry of Education"
         
     Awards:
       - title: Student and Postdoc International Travel Scholarship
@@ -117,7 +117,7 @@ cv:
         keywords: "Survival Analysis, Mathematical Modeling, Social Network Analysis"
 
       - name: Programming
-        keywords: "R (Fluent), SAS (Fluent), Python (Basic), SQL (Basic)"
+        keywords: "R (advanced), SAS (advanced), Julia (intermediate), Python (basic), SQL (basic)"
 
     Languages:
       - name: Korean
