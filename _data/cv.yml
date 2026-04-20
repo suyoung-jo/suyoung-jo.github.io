@@ -23,9 +23,9 @@ cv:
 
   sections:
     Education:
-      - institution: Seoul National University
+      - institution: Graduate School of Public Health, Seoul National University
         location: Seoul, Korea
-        url: https://en.snu.ac.kr/
+        url: https://health.snu.ac.kr/en/
         area: Epidemiology
         studyType: PhD
         start_date: 2019.3
@@ -34,8 +34,9 @@ cv:
           - "Advisor: Prof. Sung-il Cho"
           - "Thesis: Using Epidemiological Indicators for Comprehensive Monitoring and Evaluation of COVID-19 Epidemic in South Korea"
 
-      - institution: Seoul National University
+      - institution: Graduate School of Public Health, Seoul National University
         location: Seoul, Korea
+        url: https://health.snu.ac.kr/en/
         area: Epidemiology
         studyType: Master of Public Health (MPH)
         start_date: 2016.9
@@ -43,8 +44,9 @@ cv:
         highlights:
           - "Advisor: Prof. Sung-il Cho"
 
-      - institution: Seoul National University
+      - institution: College of Nursing, Seoul National University
         location: Seoul, Korea
+        url: https://nursing.snu.ac.kr/en
         area: Nursing
         studyType: Bachelor of Science in Nursing (BSN)
         start_date: 2010.3
@@ -55,7 +57,7 @@ cv:
       - company: Seoul National University
         position: Postdoctoral Researcher
         location: Seoul, Korea
-        start_date: 2024-03
+        start_date: 2024.3
         end_date: present
         highlights:
           - "PI: Prof. Sung-il Cho"
@@ -67,9 +69,6 @@ cv:
         start_date: 2018.7
         end_date: 2020.2
         summary: Supported public health research through linkage and management of large-scale national healthcare data.
-        highlights:
-          - Description 1.
-          - Description 2.
           
       - company: Seoul National University Hospital
         position: Registered Nurse
@@ -77,8 +76,6 @@ cv:
         start_date: 2014.9
         end_date: 2017.2
         summary: Provided clinical care for pediatric patients with hematologic and oncologic conditions.
-        highlights:
-          - Relativity
 
     Awards:
       - title: Student and Postdoc International Travel Scholarship
@@ -102,10 +99,17 @@ cv:
         awarder: Korean Society for Preventive Medicine
         date: 2017
 
-
+    Projects:
+      - name: Simulation-Based Policy Evaluation Framework for Emerging Infectious Diseases
+        start_date: 2025.9
+        end_date: 2027.8
+        summary: "Developing an agent-based modeling framework to evaluate infectious disease policies from epidemiological and health economic perspectives."
+        highlights:
+          - "Agent-based modeling for infectious disease policy evaluation"
+          - "Funded by National Research Foundation of Korea (NRF)"
+          
     Publications:
-      - title: "See full publication list on the [Publications](/publications/) page."
-        summary: 
+      - summary: "See full publication list on the [Publications](https://suyoung-jo.github.io/publications/) page."
 
     Skills:
       - name: Methodology
@@ -128,19 +132,12 @@ cv:
       - name: Hobbies
         keywords: "Football, Weightlifting, Cello"
 
+
+
     Certificates:
       - name: Registered Nurse License
         issuer: Korean Ministry of Health and Welfare
-        date: 2014
-
-    Projects:
-      - name: Simulation-Based Policy Evaluation Framework for Emerging Infectious Diseases
-        summary: "Developing an agent-based modeling framework to evaluate infectious disease policies from epidemiological and health economic perspectives."
-        highlights:
-          - "Agent-based modeling for infectious disease policy evaluation"
-          - "Funded by National Research Foundation of Korea (NRF)"
-        start_date: 2025-09
-        end_date: 2027-08
+        date: 2014    
         
     References:
       - name: Professor Sung-il Cho
