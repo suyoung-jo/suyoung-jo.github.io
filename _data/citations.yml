@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-08'
 papers:
   I8StFfUAAAAJ:2osOgNQ5qMEC:
     citations: 15
@@ -14,11 +14,11 @@ papers:
     title: Dose-response risks of all-cause, cancer, and cardiovascular disease mortality according to sex-specific cigarette smoking pack-year quantiles
     year: '2024'
   I8StFfUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 12
+    citations: 13
     title: 'Smoking-attributable mortality in Korea, 2020: a meta-analysis of 4 databases'
     year: '2024'
   I8StFfUAAAAJ:UeHWp8X0CEIC:
-    citations: 0
+    citations: 1
     title: 'Symptoms and Conditions in Children and Adults up to 90 Days after SARS-CoV-2 Infection: A Retrospective Observational Study Utilizing the Common Data Model'
     year: '2024'
   I8StFfUAAAAJ:W7OEmFMy1HYC:
@@ -51,7 +51,7 @@ papers:
     year: '2024'
   I8StFfUAAAAJ:ufrVoPGSRksC:
     citations: 0
-    title: 'Effectiveness of bivalent COVID-19 vaccines against SARS-CoV-2 reinfection in Patients With Cancer: Evidence From a Nationwide Target Trial Emulation'
+    title: 'Effectiveness of bivalent COVID-19 vaccines against SARS-CoV-2 reinfection in patients with cancer: Evidence from a nationwide target trial emulation'
     year: '2026'
   I8StFfUAAAAJ:zYLM7Y9cAGgC:
     citations: 3
