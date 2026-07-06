@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-06'
 papers:
   I8StFfUAAAAJ:2osOgNQ5qMEC:
     citations: 15
@@ -10,11 +10,11 @@ papers:
     title: Association of deforestation with severe fever with thrombocytopenia syndrome
     year: '2023'
   I8StFfUAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: Dose-response risks of all-cause, cancer, and cardiovascular disease mortality according to sex-specific cigarette smoking pack-year quantiles
     year: '2024'
   I8StFfUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 13
+    citations: 14
     title: 'Smoking-attributable mortality in Korea, 2020: a meta-analysis of 4 databases'
     year: '2024'
   I8StFfUAAAAJ:UeHWp8X0CEIC:
@@ -42,7 +42,7 @@ papers:
     title: Modeling Epidemic and Economic Trade-offs Under Alternative COVID-19 Isolation Exit Scenarios in South Korea
     year: '2026'
   I8StFfUAAAAJ:qjMakFHDy7sC:
-    citations: 7
+    citations: 8
     title: "New framework to assess tracing and testing based on South Korea\u2019s response to COVID-19"
     year: '2024'
   I8StFfUAAAAJ:ufrVoPGSRksC:
@@ -50,6 +50,6 @@ papers:
     title: 'Effectiveness of bivalent COVID-19 vaccines against SARS-CoV-2 reinfection in patients with cancer: Evidence from a nationwide target trial emulation'
     year: '2026'
   I8StFfUAAAAJ:zYLM7Y9cAGgC:
-    citations: 3
+    citations: 4
     title: 'Risk of all-cause mortality by various cigarette smoking indices: A longitudinal study using the Korea National Health Examination Baseline Cohort in South Korea'
     year: '2025'
