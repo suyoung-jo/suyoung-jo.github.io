@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-24'
 papers:
   I8StFfUAAAAJ:2osOgNQ5qMEC:
     citations: 15
@@ -13,6 +13,10 @@ papers:
     citations: 5
     title: Dose-response risks of all-cause, cancer, and cardiovascular disease mortality according to sex-specific cigarette smoking pack-year quantiles
     year: '2024'
+  I8StFfUAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Behavioral and psychosocial factors associated with coadministration of COVID-19 and influenza vaccines among the elderly
+    year: '2026'
   I8StFfUAAAAJ:Tyk-4Ss8FVUC:
     citations: 14
     title: 'Smoking-attributable mortality in Korea, 2020: a meta-analysis of 4 databases'
@@ -42,7 +46,7 @@ papers:
     title: Modeling Epidemic and Economic Trade-offs Under Alternative COVID-19 Isolation Exit Scenarios in South Korea
     year: '2026'
   I8StFfUAAAAJ:qjMakFHDy7sC:
-    citations: 8
+    citations: 9
     title: "New framework to assess tracing and testing based on South Korea\u2019s response to COVID-19"
     year: '2024'
   I8StFfUAAAAJ:ufrVoPGSRksC:
