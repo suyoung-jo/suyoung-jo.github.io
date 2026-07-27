@@ -404,7 +404,7 @@ ninja.data = [{
           section: "News",},{id: "news-presenting-a-poster-at-the-2026-society-for-epidemiologic-research-ser-annual-meeting-in-phoenix-az-june-23-7-30-pm-mst",
           title: 'Presenting a poster at the 2026 Society for Epidemiologic Research (SER) Annual Meeting...',
           description: "",
-          section: "News",},{id: "news-new-paper-published-in-bmc-public-health-behavioral-and-psychosocial-factors-associated-with-coadministration-of-covid-19-and-influenza-vaccines-among-the-elderly",
+          section: "News",},{id: "news-new-paper-published-in-bmc-public-health-behavioral-and-psychosocial-factors-associated-with-coadministration-of-covid-19-and-influenza-vaccines-among-the-elderly-co-first-author",
           title: 'New paper published in BMC Public Health: “Behavioral and psychosocial factors associated with...',
           description: "",
           section: "News",},{id: "news-new-paper-published-in-international-journal-of-infectious-diseases-counterfactual-evaluation-of-covid-19-control-policies-in-south-korea-a-scenario-based-modeling-study",
