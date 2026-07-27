@@ -407,7 +407,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-published-in-bmc-public-health-behavioral-and-psychosocial-factors-associated-with-coadministration-of-covid-19-and-influenza-vaccines-among-the-elderly-co-first-author",
           title: 'New paper published in BMC Public Health: “Behavioral and psychosocial factors associated with...',
           description: "",
-          section: "News",},{id: "news-new-paper-published-in-international-journal-of-infectious-diseases-counterfactual-evaluation-of-covid-19-control-policies-in-south-korea-a-scenario-based-modeling-study",
+          section: "News",},{id: "news-new-paper-published-in-international-journal-of-infectious-diseases-counterfactual-evaluation-of-covid-19-control-policies-in-south-korea-a-scenario-based-modeling-study-first-author",
           title: 'New paper published in International Journal of Infectious Diseases: “Counterfactual Evaluation of COVID-19...',
           description: "",
           section: "News",},{id: "projects-project-1",
