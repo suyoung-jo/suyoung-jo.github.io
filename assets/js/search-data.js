@@ -398,7 +398,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presenting-a-poster-at-the-2026-society-for-epidemiologic-research-ser-annual-meeting-in-phoenix-az-june-23-7-30-pm-mst",
+            },},{id: "news-new-paper-published-in-journal-of-infection-effectiveness-of-bivalent-covid-19-vaccines-against-sars-cov-2-reinfection-in-patients-with-cancer-evidence-from-a-nationwide-target-trial-emulation-co-corresponding-author",
+          title: 'New paper published in Journal of Infection: “Effectiveness of bivalent COVID-19 vaccines against...',
+          description: "",
+          section: "News",},{id: "news-presenting-a-poster-at-the-2026-society-for-epidemiologic-research-ser-annual-meeting-in-phoenix-az-june-23-7-30-pm-mst",
           title: 'Presenting a poster at the 2026 Society for Epidemiologic Research (SER) Annual Meeting...',
           description: "",
           section: "News",},{id: "projects-project-1",
