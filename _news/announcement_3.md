@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper published in **BMC Public Health**: "Behavioral and psychosocial factors associated with coadministration of COVID-19 and influenza vaccines among the elderly".
+New paper published in **BMC Public Health**: "Behavioral and psychosocial factors associated with coadministration of COVID-19 and influenza vaccines among the elderly" (co-first author).
